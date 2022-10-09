@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi I'm Numan Kartal :D<br><br>I graduated from Kütahya Dumlupınar University Computer Programming Department.<br><br>I'm working and learning on java and frontend design technologies
+public class About extends Me { 
+
+  private String name = "Eren Uygur";
+  private Display display = Display.HUMAN;
+  private Status currentStatus = Status.LEARNING;
+  private List<Languages> languages = List.of(Turkish, English);
+  
+}
 
 
 ## 🌐 Socials:
