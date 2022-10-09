@@ -3,12 +3,7 @@
 # 💫 About Me:
 public class About extends Me { 
 
-  private String name = "Eren Uygur";
-  private Display display = Display.HUMAN;
-  private Status currentStatus = Status.LEARNING;
-  private List<Languages> languages = List.of(Turkish, English);
-  
-}
+
 
 
 ## 🌐 Socials:
