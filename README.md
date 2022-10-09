@@ -1,10 +1,16 @@
 ### Hi there 👋
 
 # 💫 About Me:
+
+```Java
 public class About extends Me { 
-
-
-
+  private String name = "Numan Kartal";
+  private Display display = Display.HUMAN;
+  private Status currentStatus = Status.LEARNING;
+  private List<Languages> languages = List.of(Turkish, English);
+  
+}
+``` 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/numankartal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaharyasx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numankartall) 
