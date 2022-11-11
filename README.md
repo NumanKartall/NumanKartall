@@ -15,7 +15,7 @@ public class About extends Me {
 
 ##
 <h1 align="center">The Efficient House</h1>
-<h1 align="center" width="100" height="100"> src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" </h1>
+<img margin="auto" width="100" height="100" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" />
 
 
 ## 🌐 Socials:
