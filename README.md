@@ -1,5 +1,4 @@
-
- <h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ## 💫 About Me
 
@@ -15,7 +14,8 @@ public class About extends Me {
 
 ##
 <h1 align="center">The Efficient House</h1>
-<img margin="auto" width="110" height="110" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" />
+<div align="center"><img margin="auto" width="110" height="110" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" /></div>
+
 
 
 ## 🌐 Socials:
