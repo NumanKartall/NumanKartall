@@ -18,7 +18,7 @@ public class About extends Me {
 
 <div align="center"><img margin="auto" width="500" height="325" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div>
 
-<div align="left"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/93405692?v=4"  /></div>
+<div align="left"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://imgyukle.com/f/2022/11/19/JuxArY.png"  /></div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/numankartal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaharyasx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numankartall) 
