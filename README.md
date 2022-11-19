@@ -1,16 +1,7 @@
-<h1 align="center">Hi there 👋</h1>
 
-## 💫 About Me
 
-```Java
-public class About extends Me { 
-  private String name = "Numan Kartal";
-  private Display display = Display.HUMAN;
-  private Status currentStatus = Status.LEARNING;
-  private List<Languages> languages = List.of(Turkish, English);
-  
-}
-``` 
+## <h1 align="center" >💫 About Me</h1>
+
 
 ##
 <div align="center"><img margin="auto" width="150" height="150" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" /></div><br/><br/>
@@ -19,12 +10,16 @@ public class About extends Me {
 
 <div align="center"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://imgyukle.com/f/2022/11/19/JuxArY.png"  /></div>
 
-<h1>$${\color{purple}Light \space Blue}$$</h1>
+<h1 align="center" weight="bold">$\mathbb{\color{purple}{NUMAN \ KARTAL}}$</h1><br/><br/>
 
-## 🌐 Socials:
-<div align="center">
-<a href="https://instagram.com/zaharyasx"><img width="100" height="100" src="https://imgyukle.com/f/2022/11/19/Ju5Rqp.png" /></a>
+<h1 align="center">Social Media</h1>
+<div align="center"><br/>
+<a href="https://instagram.com/zaharyasx"><img width="80" height="80" src="https://imgyukle.com/f/2022/11/19/JuDQvP.png" /></a>
+<a href="https://facebook.com/numankartal"><img width="80" height="80" src="https://imgyukle.com/f/2022/11/19/JuDSi0.png" /></a>
+<a href=""><img width="80" height="80" src="" /></a>  
+<a href="https://linkedin.com/in/numankartall"><img width="80" height="80" src="" /></a>
 </div>
+
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
