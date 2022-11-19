@@ -26,7 +26,7 @@
     <img width="60" height="60"  src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
- <a href="https://instagram.com/zaharyasx">
+ <a href="https://twitter.com/Zaharyasx">
     <img width="60" height="60"  src="https://skillicons.dev/icons?i=twitter" />
   </a>
  
