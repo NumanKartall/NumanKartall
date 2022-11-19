@@ -24,7 +24,7 @@ public class About extends Me {
 
 ## 🌐 Socials:
 <div align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/numankartal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaharyasx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numankartall) 
+<a href="https://instagram.com/zaharyasx"><img width="100" height="100" src="https://imgyukle.com/f/2022/11/19/Ju5Rqp.png" /></a>
 </div>
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
