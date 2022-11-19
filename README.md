@@ -13,12 +13,12 @@ public class About extends Me {
 ``` 
 
 ##
-<h1 align="center">EFFICIENT HOUSE</h1>
+<h1 align="center">---| EFFICIENT HOUSE |---</h1>
 <div align="center"><img margin="auto" width="150" height="150" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" /></div>
 
 <div align="center"><img margin="auto" width="500" height="325" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div>
 
-<div align="left" border-radius="300"><img margin="auto" width="300" height="300" src="https://avatars.githubusercontent.com/u/93405692?v=4" /></div>
+<div align="left" radius="300"><img margin="auto" width="300" height="300" src="https://avatars.githubusercontent.com/u/93405692?v=4" /></div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/numankartal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaharyasx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numankartall) 
