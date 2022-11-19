@@ -3,7 +3,7 @@
 
 ##
 
-## <div align="center"><img margin="auto" width="500" height="320" src= "https://imgyukle.com/f/2022/11/19/Ju3DaY.png" /></div><br/>
+## <div align="center"><img margin="auto" width="500" height="320" src= "https://imgyukle.com/f/2022/11/19/Ju3Gz0.png" /></div><br/>
 
 <div align="center"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://imgyukle.com/f/2022/11/19/JuxArY.png"  /></div>
 
