@@ -19,7 +19,7 @@ public class About extends Me {
 
 <div align="center"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://imgyukle.com/f/2022/11/19/JuxArY.png"  /></div>
 
-<h1 align="center">---| NUMAN KARTAL |---</h1>
+<h1 align="center" color="blue"> NUMAN KARTAL </h1>
 
 ## 🌐 Socials:
 <div align="center">
