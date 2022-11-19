@@ -22,7 +22,7 @@
 
 ## <h2 align="center">$\mathcal{\color{orange}{Front \ End \ Technologies }}$</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)])
 
 ## <h2 align="center">$\mathcal{\color{orange}{Design \ and \ Drawing \ Technologies }}$</h2>
 
