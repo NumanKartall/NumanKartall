@@ -13,9 +13,9 @@ public class About extends Me {
 ``` 
 
 ##
-<div align="center"><img margin="auto" width="150" height="150" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" /></div><br/>
+<div align="center"><img margin="auto" width="150" height="150" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" /></div><br/><br/>
 
-<div align="center"><img margin="auto" width="500" height="325" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div><br/><br/>
+<div align="center"><img margin="auto" width="500" height="325" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div><br/><br/><br/><br/>
 
 <div align="center"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://imgyukle.com/f/2022/11/19/JuxArY.png"  /></div>
 
