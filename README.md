@@ -1,13 +1,13 @@
 
- <h1 align="center" >$\textcolor{orange}{Hello \ Everyone}$</h1>
+## <h1 align="center">$\textcolor{green}{Hello \ Everyone}$</h1>
 
 ##
 
-<div align="center"><img margin="auto" width="500" height="320" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div><br/><br/><br/><br/>
+## <div align="center"><img margin="auto" width="500" height="320" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div><br/>
 
 <div align="center"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://imgyukle.com/f/2022/11/19/JuxArY.png"  /></div>
 
-## <h1 align="center">$\textcolor{purple}{NUMAN \ KARTAL}$</h1><br/><br/>
+<h1 align="center">$\textcolor{purple}{NUMAN \ KARTAL}$</h1><br/><br/>
 
 ## <h1 align="center">$\mathcal{\color{orange}{About \ Me }}$</h1><br/>
 
