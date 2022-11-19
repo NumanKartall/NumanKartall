@@ -16,8 +16,8 @@
 <div align="center"><br/>
 <a href="https://instagram.com/zaharyasx"><img width="80" height="80" src="https://imgyukle.com/f/2022/11/19/JuDQvP.png" /></a>
 <a href="https://facebook.com/numankartal"><img width="80" height="80" src="https://imgyukle.com/f/2022/11/19/JuDSi0.png" /></a>
-<a href=""><img width="80" height="80" src="" /></a>  
-<a href="https://linkedin.com/in/numankartall"><img width="80" height="80" src="" /></a>
+<a href=""><img width="80" height="80" src="https://imgyukle.com/f/2022/11/19/JumfTy.png" /></a>  
+<a href="https://linkedin.com/in/numankartall"><img width="80" height="80" src="https://imgyukle.com/f/2022/11/19/JuDjC8.png" /></a>
 </div>
 
 ## 💻 Tech Stack:
