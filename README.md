@@ -14,9 +14,9 @@ public class About extends Me {
 
 ##
 <h1 align="center">EFFICIENT HOUSE</h1>
-<div align="center"><img margin="auto" width="110" height="110" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" /></div>
+<div align="center"><img margin="auto" width="150" height="150" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" /></div>
 
-<div align="center"><img margin="auto" width="500" height="330" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div>
+<div align="center"><img margin="auto" width="500" height="320" src="https://imgyukle.com/f/2022/11/19/JuxbLc.png" /></div>
 
 
 
