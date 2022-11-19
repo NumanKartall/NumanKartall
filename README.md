@@ -7,9 +7,10 @@
 
 <div align="center"><img margin="auto" width="300" height="300" style="border-radius:50%" src="https://imgyukle.com/f/2022/11/19/JuxArY.png"  /></div>
 
-<h1 align="center">$\textcolor{purple}{NUMAN \ KARTAL}$</h1><br/><br/>
+## <h1 align="center">$\textcolor{purple}{NUMAN \ KARTAL}$</h1><br/><br/>
 
-<h1 align="center">$\mathcal{\color{orange}{About \ Me }}$</h1><br/>
+## <h1 align="center">$\mathcal{\color{orange}{About \ Me }}$</h1><br/>
+
 
 <h2 align=center>I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.</h2><br/>
 
@@ -19,7 +20,8 @@
 
 <h3 align=center>:zap: In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends.</h3><br/><br/>
 
-<h1 align="center">$\mathcal{\color{orange}{Social \ Media }}$</h1><br/>
+## <h1 align="center">$\mathcal{\color{orange}{Social \ Media }}$</h1><br/>
+---
 
 <p align="center">
   <a href="https://instagram.com/zaharyasx">
@@ -44,13 +46,13 @@
 </p><br/>
 
 ## <h1 align="center">$\mathcal{\color{orange}{Program \ and \ Software \ Skills }}$</h1>
-
+---
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
 ## <h2 align="center">$\mathcal{\color{orange}{Front \ End \ Technologies \ and \ Frameworks }}$</h2><br/>
-
+---
 <p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,netlify" />
@@ -58,7 +60,7 @@
 </p><br/>
 
 ## <h2 align="center">$\mathcal{\color{orange}{Design \ and \ Drawing \ Technologies }}$</h2><br/>
-
+---
 <p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd" />
@@ -66,7 +68,7 @@
 </p><br/>
 
 ## <h2 align="center">$\mathcal{\color{orange}{Back\ End \ Technologies }}$</h2><br/>
-
+---
 <p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java" />
@@ -74,7 +76,7 @@
 </p><br/>
 
 ## <h2 align="center">$\mathcal{\color{orange}{IDE's \ Technologies }}$</h2><br/>
-
+---
 <p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode" />
@@ -82,7 +84,7 @@
 </p><br/>
 
 ## <h2 align="center">$\mathcal{\color{orange}{Database \ Technologies }}$</h2><br/>
-
+---
 <p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -90,9 +92,9 @@
 </p><br/>
 
 ## <h2 align="center">$\mathcal{\color{orange}{My \ Github \ Stats }}$</h2><br/>
-
-![Numan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NumanKartall&show_icons=true&theme=radical&icon_color=orange&border_color=yellow&card_width=1000)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NumanKartall&langs_count=8&theme=tokyonight&card_width=1000)
+---
+![Numan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NumanKartall&show_icons=true&theme=radical&icon_color=orange&border_color=yellow&card_width=1000)<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NumanKartall&langs_count=8&theme=tokyonight&card_width=1000)<br/>
 
 
 ---
