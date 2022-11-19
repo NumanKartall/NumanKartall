@@ -34,11 +34,11 @@
     <img width="60" height="60"  src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  
- <a href="https://instagram.com/zaharyasx">
+ <a href="https://discord.com/EfficientHouse">
     <img width="60" height="60" src="https://skillicons.dev/icons?i=discord" />
   </a>
  
- <a href="https://instagram.com/zaharyasx">
+ <a href="https://github.com/NumanKartall/EfficientHouseJava">
     <img width="58" height="58" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg"/>
   </a>
 </p><br/>
@@ -51,7 +51,7 @@
 
 ## <h2 align="center">$\mathcal{\color{orange}{Front \ End \ Technologies \ and \ Frameworks }}$</h2><br/>
 
-<p align="center">
+<p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,netlify" />
   </a>
@@ -59,7 +59,7 @@
 
 ## <h2 align="center">$\mathcal{\color{orange}{Design \ and \ Drawing \ Technologies }}$</h2><br/>
 
-<p align="center">
+<p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd" />
   </a>
@@ -67,7 +67,7 @@
 
 ## <h2 align="center">$\mathcal{\color{orange}{Back\ End \ Technologies }}$</h2><br/>
 
-<p align="center">
+<p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
@@ -75,7 +75,7 @@
 
 ## <h2 align="center">$\mathcal{\color{orange}{IDE's \ Technologies }}$</h2><br/>
 
-<p align="center">
+<p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode" />
   </a>
@@ -83,7 +83,7 @@
 
 ## <h2 align="center">$\mathcal{\color{orange}{Database \ Technologies }}$</h2><br/>
 
-<p align="center">
+<p align="center" width="58" height="58">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
