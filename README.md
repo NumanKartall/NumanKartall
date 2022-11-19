@@ -21,7 +21,7 @@ public class About extends Me {
 
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
-<h1 align="center" ![#f03c15] > NUMAN KARTAL </h1>
+<h1 align="center" color{purple} > NUMAN KARTAL </h1>
 
 ## 🌐 Socials:
 <div align="center">
