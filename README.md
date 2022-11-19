@@ -17,7 +17,7 @@
 
 <h3 align="center">:mailbox: I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022.</h3>
 
-<h3 align=center>:zap: In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends.</h3>
+<h3 align=center>:zap: In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends.</h3><br/><br/>
 
 <h1 align="center">$\mathcal{\color{orange}{Social \ Media }}$</h1><br/>
 
