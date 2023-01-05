@@ -77,4 +77,3 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-[![](https://visitcount.itsvg.in/api?id=NumanKartall&label=Profile%20Views&color=5&icon=8&pretty=true)](https://visitcount.itsvg.in)
