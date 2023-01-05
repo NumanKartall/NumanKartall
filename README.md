@@ -77,10 +77,4 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-
-## <h2 align="center">My Github Stats</h2><br/>
-
-![Numan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NumanKartall&show_icons=true&theme=radical&icon_color=orange&border_color=yellow&card_width=1000)<br/><br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NumanKartall&langs_count=8&theme=tokyonight&card_width=1000)<br/>
-
 [![](https://visitcount.itsvg.in/api?id=NumanKartall&label=Profile%20Views&color=5&icon=8&pretty=true)](https://visitcount.itsvg.in)
