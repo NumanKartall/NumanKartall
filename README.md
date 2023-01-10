@@ -3,11 +3,11 @@
 
 ##
 
-## <div align="center"><img margin="auto" width="440" height="285" src= "https://i.hizliresim.com/il8eexu.png" /></div><br/>
+## <div align="center"><img margin="auto" width="400" height="245" src= "https://i.hizliresim.com/il8eexu.png" /></div><br/>
 
-<div align="center"><img margin="auto" width="250" height="250" style="border-radius:50%" src= "https://i.hizliresim.com/pgad7rt.png"  /></div>
+<div align="center"><img margin="auto" width="250" height="250" style="border-radius:10%" src= "https://i.hizliresim.com/pgad7rt.png"  /></div>
 
-<h1 align="center">$\textcolor{purple}{NUMAN \ KARTAL}$</h1><br/>
+<h1 align="center"> NUMAN KARTAL </h1><br/>
 
 <h1 align="center">About Me</h1><br/>
 
