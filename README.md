@@ -1,5 +1,6 @@
-# 💫 About Me:
-<h1 align="center">Hello Everyone 🐨</h1> </br></br>
+
+<h1 align="center">Hello Everyone 🙋‍♂️</h1> </br></br>
+
 I am a Software Developer Candidate 🙂 </br>
 
 I am developing myself in the field of Frontend and Backend.I am learning the Java programming language. I also work with Frontend technologies and design programs 👨‍ </br>
@@ -30,8 +31,8 @@ In my free time, I improve myself on software and coding. Sometimes I do visual 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NumanKartall&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NumanKartall&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NumanKartall&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NumanKartall&theme=midnight-purple&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NumanKartall&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 GitHub Trophies
