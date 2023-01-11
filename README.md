@@ -1,75 +1,21 @@
+# 💫 About Me:
+I am a Software Developer from Turkey.<br>I am developing myself in the field of Frontend and Backend. I am learning the Java programming language. I also work with Frontend technologies and design programs..<br>I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022.<br>In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends.
 
-## <h1 align="center">Hello Everyone</h1>
 
-##
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NumanKartal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/numannkrtall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numankartal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@numanKartal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zaharyasx) 
 
-## <div align="center"><img margin="auto" width="400" height="245" src= "https://i.hizliresim.com/il8eexu.png" /></div><br/>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NumanKartall&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NumanKartall&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NumanKartall&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center"><img margin="auto" width="250" height="250" style="border-radius:10%" src= "https://i.hizliresim.com/pgad7rt.png"  /></div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NumanKartall&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<h1 align="center"> NUMAN KARTAL </h1><br/>
+---
+[![](https://visitcount.itsvg.in/api?id=NumanKartall&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<h1 align="center">About Me</h1><br/>
-
-<h2 align=center>I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.</h2><br/>
-
-<h3 align="center">:telescope: I am developing myself in the field of Frontend and Backend. I am learning the Java programming language. I also work with Frontend technologies and design programs..</h3>
-
-<h3 align="center">:mailbox: I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022.</h3>
-
-<h3 align=center>:zap: In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends.</h3><br/><br/>
-
-## <h1 align="center">Social Media</h1><br/>
-
-<p align="center">
-  <a href="https://instagram.com/zaharyasx">
-    <img width="60" height="60"  src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  
- <a href="https://twitter.com/Zaharyasx">
-    <img width="60" height="60"  src="https://skillicons.dev/icons?i=twitter" />
-  </a>
- 
- <a href="https://linkedin.com/in/numankartall">
-    <img width="60" height="60"  src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- 
- <a href="https://discord.com/EfficientHouse">
-    <img width="60" height="60" src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</p><br/>
-
-## <h1 align="center">Abilities and Skills</h1>
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
-</div><br/><br/>
-
-<p align="center" width="58" height="58">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
-  </a>
-</p>
-
-<p align="center" width="58" height="58">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd" />
-  </a>
-</p>
-
-<p align="center" width="58" height="58">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-</p>
-
-<p align="center" width="58" height="58">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=idea,vscode" />
-  </a>
-</p>
-
-<p align="center" width="58" height="58">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
