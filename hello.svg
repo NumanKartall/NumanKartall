@@ -37,8 +37,8 @@
 
       .container {
         background: var(--color-background);
-        height: calc(100% - 10px);
-        width: calc(100% - 10px);
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -46,7 +46,7 @@
       }
 
       h1 {
-        font-size: 3.3rem;
+        font-size: 2.5rem;
         font-weight: 800;
         font-family: "Open Sans", sans-serif;
         text-align: center;
@@ -110,7 +110,7 @@
         flex-direction: column;
       }
       ul {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 26px;
         color: var(--color-main);
         font-weight: 700;
