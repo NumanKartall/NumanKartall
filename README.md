@@ -1,14 +1,14 @@
 <div style="width: 100%;">
   <img src="helloo.svg" style="width: 100%;" alt="Click to see the source">
-</div> </br>
+</div>
 
-I am a Software Developer Candidate 🙂 </br>
+<h4 align="center">I am a Software Developer Candidate 🙂 </br></h4>
 
-I am developing myself in the field of Frontend and Backend.I am learning the Java programming language. I also work with Frontend technologies and design programs 👨‍ </br>
+<h4 align="center">I am developing myself in the field of Frontend and Backend technologies. I am learning the Java programming language. I also working with Frontend technologies and design programs 👨‍ </br></h4>
 
-I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022 👨‍🎓 </br>
+<h4 align="center">I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022 👨‍🎓 </br></h4>
 
-In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends. 👽 </br>
+<h4 align="center">In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends. 👽 </br></h4>
 
 
 # 🌐 Socials:
