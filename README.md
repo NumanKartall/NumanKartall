@@ -2,7 +2,7 @@
   <a href="https://github.com/NumanKartall/NumanKartall/blob/main/hello.svg">
     <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-</div> </br>
+</div>
 
 I am a Software Developer Candidate 🙂 </br>
 
