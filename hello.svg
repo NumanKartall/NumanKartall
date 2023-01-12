@@ -21,7 +21,7 @@
         --color-link-active: #ff4444;
 
         height: 300px;
-        width: 100%;
+        width: 600px;
         text-transform: uppercase;
         display: flex;
         align-items: center;
