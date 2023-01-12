@@ -211,7 +211,7 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer at <a href="#">Hello Everyone</a></li>
+            <li><a href="#">Hello Everyone</a></li>
           </ul>
           <ul>
             <li><a href="#" role="button"><span class='hi'>👋</span></a></li>
