@@ -31,7 +31,7 @@
         animation: border 5s linear infinite;
         background-size: 200% 200%;
         background-position: 0 0;
-        border: 24px solid;
+        border: 60px solid;
         border-color: var(--color-background);
       }
 
@@ -46,7 +46,7 @@
       }
 
       h1 {
-        font-size: 3.5rem;
+        font-size: 3.3rem;
         font-weight: 800;
         font-family: "Open Sans", sans-serif;
         text-align: center;
@@ -170,12 +170,12 @@
 
       @media (prefers-color-scheme: light) {
         .body {
-          --color-main: #9B5DE5;
-          --color-primary: #F15BB5;
+          --color-main: #6a0040;
+          --color-primary: #2a0058;
           --color-secondary: #00BBF9;
-          --color-background: #ffffff;
-          --color-link: #00BBF9;
-          --color-link-active: #F15BB5;
+          --color-background: #e76000;
+          --color-link: #e76000;
+          --color-link-active: #000000;
         }
       }
 
