@@ -4,7 +4,7 @@
 
 <h3 align="center">I am a Software Developer Candidate 🙂 </br></h3>
 
-<h3 align="center">I am developing myself in the field of Frontend and Backend technologies. I am learning the Java programming language. I also working with Frontend technologies and design programs 👨‍ </br></h3>
+<h3 align="center">I am developing myself in the field of Frontend and Backend technologies. I am learning the Java programming language. I also working with Frontend technologies and design programs 👨‍💻 </br></h3>
 
 <h3 align="center">I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022 👨‍🎓 </br></h3>
 
