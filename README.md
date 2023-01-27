@@ -8,7 +8,7 @@
 
 <h4 align="center">I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022 👨‍🎓 </br></h4>
 
-<h4 align="center">In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends. 👽 </br></h4></br>
+<h4 align="center">In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends. 👽 </br></h4></br></br>
 
 
 # 🌐 Socials:
