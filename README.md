@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hello.svg" style="width: 70%;" alt="Click to see the source">
+  <img src="hello.svg" style="width: 80%;" alt="Click to see the source">
 </div>
 
 <h3 align="center">I am a Software Developer Candidate 🙂 </br></h3>
