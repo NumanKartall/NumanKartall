@@ -1,15 +1,16 @@
 <div align="center">
+  
   <img src="helloo.svg" style="width: 85%;" alt="Click to see the source">
+  
+  <h3 align="center">I am a Software Developer Candidate 🙂 </br></h3>
+
+  <h4 align="center">I am developing myself in the field of Frontend and Backend technologies. I am learning the Java programming language. I also working with  Frontend technologies and design programs 👨‍💻 </br></h4>
+
+  <h4 align="center">I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022 👨‍🎓 </br></h4>
+
+  <h4 align="center">In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends. 👽 </br></h4></br></br>
+  
 </div>
-
-<h3 align="center">I am a Software Developer Candidate 🙂 </br></h3>
-
-<h4 align="center">I am developing myself in the field of Frontend and Backend technologies. I am learning the Java programming language. I also working with Frontend technologies and design programs 👨‍💻 </br></h4>
-
-<h4 align="center">I graduated from Kütahya Dumlupınar University Computer Programming Department in 2019-2022 👨‍🎓 </br></h4>
-
-<h4 align="center">In my free time, I improve myself on software and coding. Sometimes I do visual work with design and drawing programs. I listen to music, read books. If I have time, I play games with my friends. 👽 </br></h4></br></br>
-
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NumanKartal) 
